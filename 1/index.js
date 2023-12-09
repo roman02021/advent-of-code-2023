@@ -1,5 +1,7 @@
 import fs from "fs";
 
+/* https://adventofcode.com/2023/day/1 */
+
 let total = 0;
 const file = "test3.txt";
 const writtenNums = {
